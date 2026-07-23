@@ -422,6 +422,101 @@
         "location": "Warszawa",
         "genres": "Manga & Anime"
       }
+    ],
+    "unique_citeis": [
+      {
+        "city": "Rzeszów"
+      },
+      {
+        "city": "Jastrzębia Góra"
+      },
+      {
+        "city": "Zamość"
+      },
+      {
+        "city": "Hel"
+      },
+      {
+        "city": "Bielsko-Biała"
+      },
+      {
+        "city": "Przemyśl"
+      },
+      {
+        "city": "Szczecin"
+      },
+      {
+        "city": "Łódź"
+      },
+      {
+        "city": "Racibórz"
+      },
+      {
+        "city": "Kalisz"
+      },
+      {
+        "city": "Białystok"
+      },
+      {
+        "city": "Zielona Góra"
+      },
+      {
+        "city": "Żory"
+      },
+      {
+        "city": "Warszawa"
+      },
+      {
+        "city": "Poznań"
+      },
+      {
+        "city": "Świdnik"
+      },
+      {
+        "city": "Będzin"
+      },
+      {
+        "city": "Kraków"
+      },
+      {
+        "city": "Wrocław"
+      },
+      {
+        "city": "Olsztyn"
+      },
+      {
+        "city": "Chorzów"
+      },
+      {
+        "city": "Gdynia"
+      },
+      {
+        "city": "Gdańsk"
+      },
+      {
+        "city": "Płock"
+      },
+      {
+        "city": "Sosnowiec"
+      },
+      {
+        "city": "Rybnik"
+      },
+      {
+        "city": "Żywiec"
+      },
+      {
+        "city": "Głogówek"
+      },
+      {
+        "city": "Toruń"
+      },
+      {
+        "city": "Opole"
+      },
+      {
+        "city": "Lublin"
+      }
     ]
   },
   {
@@ -797,6 +892,104 @@
         "name": "Hellcon 3 – Apokalipsa",
         "location": "Warszawa",
         "genres": "Manga & Anime"
+      }
+    ],
+    "unique_citeis": [
+      {
+        "city": "Srebrna Góra"
+      },
+      {
+        "city": "Rzeszów"
+      },
+      {
+        "city": "Przywidz"
+      },
+      {
+        "city": "Zamość"
+      },
+      {
+        "city": "Bytom"
+      },
+      {
+        "city": "Brwinów"
+      },
+      {
+        "city": "Bielsko-Biała"
+      },
+      {
+        "city": "Czyżowice"
+      },
+      {
+        "city": "Łódź"
+      },
+      {
+        "city": "Białystok"
+      },
+      {
+        "city": "Zielona Góra"
+      },
+      {
+        "city": "Zgierz"
+      },
+      {
+        "city": "Warszawa"
+      },
+      {
+        "city": "Poznań"
+      },
+      {
+        "city": "Świdnik"
+      },
+      {
+        "city": "Będzin"
+      },
+      {
+        "city": "Kraków"
+      },
+      {
+        "city": "Smoleń"
+      },
+      {
+        "city": "Wrocław"
+      },
+      {
+        "city": "Chorzów"
+      },
+      {
+        "city": "Wojsławice"
+      },
+      {
+        "city": "Gdańsk"
+      },
+      {
+        "city": "Płock"
+      },
+      {
+        "city": "Stargard Szczeciński"
+      },
+      {
+        "city": "Toruń"
+      },
+      {
+        "city": "Głuchołazy"
+      },
+      {
+        "city": "Fryszerka"
+      },
+      {
+        "city": "Tarnów"
+      },
+      {
+        "city": "Opole"
+      },
+      {
+        "city": "Lublin"
+      },
+      {
+        "city": "Nidzica"
+      },
+      {
+        "city": "Nowy Targ"
       }
     ]
   },
@@ -1271,6 +1464,122 @@
         "name": "Snowdrop 2013",
         "location": "Nowy Sącz",
         "genres": "Manga & Anime"
+      }
+    ],
+    "unique_citeis": [
+      {
+        "city": "Piława Górna"
+      },
+      {
+        "city": "Skierniewice"
+      },
+      {
+        "city": "Rzeszów"
+      },
+      {
+        "city": "Przywidz"
+      },
+      {
+        "city": "Kuńkowice"
+      },
+      {
+        "city": "Zamość"
+      },
+      {
+        "city": "Bytom"
+      },
+      {
+        "city": "Brwinów"
+      },
+      {
+        "city": "Bielsko-Biała"
+      },
+      {
+        "city": "Szczecin"
+      },
+      {
+        "city": "Czyżowice"
+      },
+      {
+        "city": "Łódź"
+      },
+      {
+        "city": "Racibórz"
+      },
+      {
+        "city": "Białystok"
+      },
+      {
+        "city": "Chełm Śląski"
+      },
+      {
+        "city": "Zielona Góra"
+      },
+      {
+        "city": "Piątek"
+      },
+      {
+        "city": "Warszawa"
+      },
+      {
+        "city": "Piaski"
+      },
+      {
+        "city": "Poznań"
+      },
+      {
+        "city": "Katowice"
+      },
+      {
+        "city": "Będzin"
+      },
+      {
+        "city": "Kraków"
+      },
+      {
+        "city": "Wrocław"
+      },
+      {
+        "city": "Płock"
+      },
+      {
+        "city": "Nawojowa Góra (Woj. Malopolskie)"
+      },
+      {
+        "city": "Tomaszów Mazowiecki"
+      },
+      {
+        "city": "Łącza"
+      },
+      {
+        "city": "Rybnik"
+      },
+      {
+        "city": "Suchedniów"
+      },
+      {
+        "city": "Tomaszów Lubelski"
+      },
+      {
+        "city": "Stargard Szczeciński"
+      },
+      {
+        "city": "Toruń"
+      },
+      {
+        "city": "Gliwice"
+      },
+      {
+        "city": "Nowy Sącz"
+      },
+      {
+        "city": "Opole"
+      },
+      {
+        "city": "Lublin"
+      },
+      {
+        "city": "Nowy Targ"
       }
     ]
   },
@@ -2018,6 +2327,161 @@
         "name": "PiK - Planszówki i Karcianki",
         "location": "Gliwice",
         "genres": "Gry planszowe"
+      }
+    ],
+    "unique_citeis": [
+      {
+        "city": "Skierniewice"
+      },
+      {
+        "city": "Jastrzębia Góra"
+      },
+      {
+        "city": "Miłocice Małe"
+      },
+      {
+        "city": "Przywidz"
+      },
+      {
+        "city": "Zamość"
+      },
+      {
+        "city": "Brwinów"
+      },
+      {
+        "city": "Bytom"
+      },
+      {
+        "city": "Bielsko-Biała"
+      },
+      {
+        "city": "Szczecin"
+      },
+      {
+        "city": "Lublin"
+      },
+      {
+        "city": "Lubartów"
+      },
+      {
+        "city": "Dąbrowa Górnicza"
+      },
+      {
+        "city": "Dębica"
+      },
+      {
+        "city": "Czyżowice"
+      },
+      {
+        "city": "Łódź"
+      },
+      {
+        "city": "Jaworzno"
+      },
+      {
+        "city": "Przegędza k. Rybnika"
+      },
+      {
+        "city": "Racibórz"
+      },
+      {
+        "city": "Nawojowa Góra"
+      },
+      {
+        "city": "Zielona Góra"
+      },
+      {
+        "city": "Chrzanów"
+      },
+      {
+        "city": "Warszawa"
+      },
+      {
+        "city": "Piaski"
+      },
+      {
+        "city": "Nowy Sącz"
+      },
+      {
+        "city": "Poznań"
+      },
+      {
+        "city": "Katowice"
+      },
+      {
+        "city": "Koszalin"
+      },
+      {
+        "city": "Kraków"
+      },
+      {
+        "city": "Sopot"
+      },
+      {
+        "city": "Wrocław"
+      },
+      {
+        "city": "Olsztyn"
+      },
+      {
+        "city": "Płock"
+      },
+      {
+        "city": "Gdańsk"
+      },
+      {
+        "city": "Tomaszów Mazowiecki"
+      },
+      {
+        "city": "Sosnowiec"
+      },
+      {
+        "city": "Pisz"
+      },
+      {
+        "city": "Łącza"
+      },
+      {
+        "city": "Rybnik"
+      },
+      {
+        "city": "Suchedniów"
+      },
+      {
+        "city": "Tomaszów Lubelski"
+      },
+      {
+        "city": "Stargard Szczeciński"
+      },
+      {
+        "city": "Toruń"
+      },
+      {
+        "city": "Łobez"
+      },
+      {
+        "city": "Łutowiec"
+      },
+      {
+        "city": "Częstochowa"
+      },
+      {
+        "city": "Gliwice"
+      },
+      {
+        "city": "Miedzna Murowana"
+      },
+      {
+        "city": "Opole"
+      },
+      {
+        "city": "Kielce"
+      },
+      {
+        "city": "Tczew"
+      },
+      {
+        "city": "Nowy Targ"
       }
     ]
   },
@@ -3340,6 +3804,251 @@
         "location": "Rzeszów",
         "genres": "Manga & Anime"
       }
+    ],
+    "unique_citeis": [
+      {
+        "city": "Mirów"
+      },
+      {
+        "city": "Bielsko-Biała"
+      },
+      {
+        "city": "Gliśno Wielkie"
+      },
+      {
+        "city": "Dębica"
+      },
+      {
+        "city": "Zielona Góra"
+      },
+      {
+        "city": "Banino"
+      },
+      {
+        "city": "Murowana Goślina"
+      },
+      {
+        "city": "Wrocław"
+      },
+      {
+        "city": "Gdańsk"
+      },
+      {
+        "city": "Nysa"
+      },
+      {
+        "city": "Wałbrzych"
+      },
+      {
+        "city": "Toruń"
+      },
+      {
+        "city": "Lublin"
+      },
+      {
+        "city": "piątek"
+      },
+      {
+        "city": "Bytom"
+      },
+      {
+        "city": "Bierdzany (Niedaleko Opola)"
+      },
+      {
+        "city": "Lubartów"
+      },
+      {
+        "city": "Dąbrowa Górnicza"
+      },
+      {
+        "city": "Płońsk"
+      },
+      {
+        "city": "Racibórz"
+      },
+      {
+        "city": "Bydgoszcz"
+      },
+      {
+        "city": "Bełchatów"
+      },
+      {
+        "city": "Warszawa"
+      },
+      {
+        "city": "Kędzierzyn-Koźle"
+      },
+      {
+        "city": "Wodzisław Śląski"
+      },
+      {
+        "city": "Świdnik"
+      },
+      {
+        "city": "Będzin"
+      },
+      {
+        "city": "Sopot"
+      },
+      {
+        "city": "Chełm"
+      },
+      {
+        "city": "Gdynia"
+      },
+      {
+        "city": "Płock"
+      },
+      {
+        "city": "Piła"
+      },
+      {
+        "city": "Chudów"
+      },
+      {
+        "city": "Srebrna Góra"
+      },
+      {
+        "city": "Kołobrzeg"
+      },
+      {
+        "city": "Rzeszów"
+      },
+      {
+        "city": "Jastrzębia Góra"
+      },
+      {
+        "city": "Lubin"
+      },
+      {
+        "city": "Zabrze"
+      },
+      {
+        "city": "Siemonia"
+      },
+      {
+        "city": "Kalisz"
+      },
+      {
+        "city": "Chrzanów"
+      },
+      {
+        "city": "Świdnica"
+      },
+      {
+        "city": "Legnica"
+      },
+      {
+        "city": "Piaski"
+      },
+      {
+        "city": "Giżycko"
+      },
+      {
+        "city": "Rząsawa"
+      },
+      {
+        "city": "Poznań"
+      },
+      {
+        "city": "Grójec"
+      },
+      {
+        "city": "Kraków"
+      },
+      {
+        "city": "Suchedniów"
+      },
+      {
+        "city": "Tomaszów Lubelski"
+      },
+      {
+        "city": "Bielawa"
+      },
+      {
+        "city": "Gliwice"
+      },
+      {
+        "city": "Tczew"
+      },
+      {
+        "city": "Nowy Targ"
+      },
+      {
+        "city": "Skierniewice"
+      },
+      {
+        "city": "Zamość"
+      },
+      {
+        "city": "Gostyń"
+      },
+      {
+        "city": "Gniezno"
+      },
+      {
+        "city": "Biała Podlaska"
+      },
+      {
+        "city": "Czyżowice"
+      },
+      {
+        "city": "Łódź"
+      },
+      {
+        "city": "Białystok"
+      },
+      {
+        "city": "Przegędza"
+      },
+      {
+        "city": "Ełk"
+      },
+      {
+        "city": "Myślenice"
+      },
+      {
+        "city": "Katowice"
+      },
+      {
+        "city": "Olsztyn"
+      },
+      {
+        "city": "Tomaszów Mazowiecki"
+      },
+      {
+        "city": "Pisz"
+      },
+      {
+        "city": "Rybnik"
+      },
+      {
+        "city": "Stargard Szczeciński"
+      },
+      {
+        "city": "Łutowiec"
+      },
+      {
+        "city": "Częstochowa"
+      },
+      {
+        "city": "Puławy"
+      },
+      {
+        "city": "Kielce"
+      },
+      {
+        "city": "Opole"
+      },
+      {
+        "city": "Krosno"
+      },
+      {
+        "city": "Nidzica"
+      },
+      {
+        "city": "Raszówka"
+      }
     ]
   },
   {
@@ -4583,6 +5292,266 @@
         "name": "Siódmy Dzień Kultury Japońskiej Nippon",
         "location": "Szczecin",
         "genres": "Manga & Anime"
+      }
+    ],
+    "unique_citeis": [
+      {
+        "city": "Strzegom"
+      },
+      {
+        "city": "Czatachowa"
+      },
+      {
+        "city": "Bielsko-Biała"
+      },
+      {
+        "city": "Wyrzysk"
+      },
+      {
+        "city": "Piątek (woj. Łódzkie)"
+      },
+      {
+        "city": "Zielona Góra"
+      },
+      {
+        "city": "Banino"
+      },
+      {
+        "city": "Piotrków Trybunalski"
+      },
+      {
+        "city": "Starogard Gdański"
+      },
+      {
+        "city": "Wrocław"
+      },
+      {
+        "city": "Stalowa Wola"
+      },
+      {
+        "city": "Gdańsk"
+      },
+      {
+        "city": "Nysa"
+      },
+      {
+        "city": "Toruń"
+      },
+      {
+        "city": "Siedlce"
+      },
+      {
+        "city": "Lublin"
+      },
+      {
+        "city": "Bytom"
+      },
+      {
+        "city": "Lubartów"
+      },
+      {
+        "city": "Mierzyn (Woj. Wielkopolskie)"
+      },
+      {
+        "city": "Dąbrowa Górnicza"
+      },
+      {
+        "city": "Płońsk"
+      },
+      {
+        "city": "Racibórz"
+      },
+      {
+        "city": "Przegędza k. Rybnika"
+      },
+      {
+        "city": "Bydgoszcz"
+      },
+      {
+        "city": "Warszawa"
+      },
+      {
+        "city": "Kędzierzyn-Koźle"
+      },
+      {
+        "city": "Ruda Śląska"
+      },
+      {
+        "city": "Świdnik"
+      },
+      {
+        "city": "Będzin"
+      },
+      {
+        "city": "Wojsławice"
+      },
+      {
+        "city": "Nadarzyn"
+      },
+      {
+        "city": "Płock"
+      },
+      {
+        "city": "Miękinia (Woj. Małopolskie)"
+      },
+      {
+        "city": "Piła"
+      },
+      {
+        "city": "Kłokoczyn"
+      },
+      {
+        "city": "Rzeszów"
+      },
+      {
+        "city": "Lubin"
+      },
+      {
+        "city": "Złoty Stok"
+      },
+      {
+        "city": "Kalisz"
+      },
+      {
+        "city": "Legnica"
+      },
+      {
+        "city": "Giżycko"
+      },
+      {
+        "city": "Poznań"
+      },
+      {
+        "city": "Kuńkowce (niedaleko Przemyśla)"
+      },
+      {
+        "city": "Grójec"
+      },
+      {
+        "city": "Kraków"
+      },
+      {
+        "city": "Kutno"
+      },
+      {
+        "city": "Będzin-Grodziec"
+      },
+      {
+        "city": "Żywiec"
+      },
+      {
+        "city": "Suchedniów"
+      },
+      {
+        "city": "Bielawa"
+      },
+      {
+        "city": "Sączów (woj. Śląskie)"
+      },
+      {
+        "city": "Szczyrk"
+      },
+      {
+        "city": "Gliwice"
+      },
+      {
+        "city": "Tczew"
+      },
+      {
+        "city": "Nowy Targ"
+      },
+      {
+        "city": "Skierniewice"
+      },
+      {
+        "city": "Konradów"
+      },
+      {
+        "city": "Zamość"
+      },
+      {
+        "city": "Gostyń"
+      },
+      {
+        "city": "Gniezno"
+      },
+      {
+        "city": "Szczecin"
+      },
+      {
+        "city": "Biała Podlaska"
+      },
+      {
+        "city": "Wleń"
+      },
+      {
+        "city": "Czyżowice"
+      },
+      {
+        "city": "Łódź"
+      },
+      {
+        "city": "Lipnica"
+      },
+      {
+        "city": "Konin"
+      },
+      {
+        "city": "Białystok"
+      },
+      {
+        "city": "Ełk"
+      },
+      {
+        "city": "Myślenice"
+      },
+      {
+        "city": "Katowice"
+      },
+      {
+        "city": "Olsztyn"
+      },
+      {
+        "city": "Tomaszów Mazowiecki"
+      },
+      {
+        "city": "Rybnik"
+      },
+      {
+        "city": "Tarnowskie Góry"
+      },
+      {
+        "city": "Stargard Szczeciński"
+      },
+      {
+        "city": "Miedzna Murowana (woj. Łódzkie)"
+      },
+      {
+        "city": "Krzeczków (woj. Lubuskie)"
+      },
+      {
+        "city": "Wleń (Woj. Dolnośląskie)"
+      },
+      {
+        "city": "Łutowiec"
+      },
+      {
+        "city": "Częstochowa"
+      },
+      {
+        "city": "Kielce"
+      },
+      {
+        "city": "Opole"
+      },
+      {
+        "city": "Krosno"
+      },
+      {
+        "city": "Nidzica"
+      },
+      {
+        "city": "Raszówka"
       }
     ]
   },
@@ -5863,6 +6832,266 @@
         "location": "Szczecin",
         "genres": "Manga & Anime"
       }
+    ],
+    "unique_citeis": [
+      {
+        "city": "Kórnik (Woj. Wielkopolskie)"
+      },
+      {
+        "city": "Gliśno Wielkie (Woj. pomorskie)"
+      },
+      {
+        "city": "Banino (Woj. Pomorskie)"
+      },
+      {
+        "city": "Choroszcz"
+      },
+      {
+        "city": "Nowy Dwór Mazowiecki"
+      },
+      {
+        "city": "Zielona Góra"
+      },
+      {
+        "city": "Wrocław"
+      },
+      {
+        "city": "Stalowa Wola"
+      },
+      {
+        "city": "Gdańsk"
+      },
+      {
+        "city": "Malbork"
+      },
+      {
+        "city": "Toruń"
+      },
+      {
+        "city": "Ostaszewo"
+      },
+      {
+        "city": "Tarnów"
+      },
+      {
+        "city": "Lublin"
+      },
+      {
+        "city": "Miedziana Góra (Woj. Świętokrzyskie)"
+      },
+      {
+        "city": "Bytom"
+      },
+      {
+        "city": "Czyżowice (Woj. Sląskie)"
+      },
+      {
+        "city": "Lubartów"
+      },
+      {
+        "city": "Dąbrowa Górnicza"
+      },
+      {
+        "city": "Grajewo"
+      },
+      {
+        "city": "Ostróda"
+      },
+      {
+        "city": "Racibórz"
+      },
+      {
+        "city": "Bydgoszcz"
+      },
+      {
+        "city": "Warszawa"
+      },
+      {
+        "city": "Wojsławice Kolonia (Woj. Lubelskie)"
+      },
+      {
+        "city": "Kędzierzyn-Koźle"
+      },
+      {
+        "city": "Grójec (Woj. Mazowieckie)"
+      },
+      {
+        "city": "Ruda Śląska"
+      },
+      {
+        "city": "Świdnik"
+      },
+      {
+        "city": "Będzin"
+      },
+      {
+        "city": "Brodnica"
+      },
+      {
+        "city": "Chorzów"
+      },
+      {
+        "city": "Płock"
+      },
+      {
+        "city": "Kuńkowce (Woj. Podkarpackie)"
+      },
+      {
+        "city": "Ełk (Woj. Warmińsko-Mazurskie)"
+      },
+      {
+        "city": "Grodziec (Woj. Śląskie)"
+      },
+      {
+        "city": "Srebrna Góra"
+      },
+      {
+        "city": "Rzeszów"
+      },
+      {
+        "city": "Jastrzębia Góra"
+      },
+      {
+        "city": "Zabrze"
+      },
+      {
+        "city": "Miękinia (małopolska)"
+      },
+      {
+        "city": "Kalisz"
+      },
+      {
+        "city": "Chrzanów"
+      },
+      {
+        "city": "Brzeg (Woj. opolskie)"
+      },
+      {
+        "city": "Legnica"
+      },
+      {
+        "city": "Piła (Woj. Wielkopolskie)"
+      },
+      {
+        "city": "Giżycko"
+      },
+      {
+        "city": "Pruszków"
+      },
+      {
+        "city": "Poznań"
+      },
+      {
+        "city": "Zwoleń"
+      },
+      {
+        "city": "Kraków"
+      },
+      {
+        "city": "Żywiec"
+      },
+      {
+        "city": "Tomaszów Lubelski"
+      },
+      {
+        "city": "Bielawa"
+      },
+      {
+        "city": "Łuńcut (Woj. Podkarpackie)"
+      },
+      {
+        "city": "Gliwice"
+      },
+      {
+        "city": "Nidzica (Woj. Warmińsko-mazurskie)"
+      },
+      {
+        "city": "Tczew"
+      },
+      {
+        "city": "Cieszyn"
+      },
+      {
+        "city": "Skierniewice"
+      },
+      {
+        "city": "Zamość"
+      },
+      {
+        "city": "Gostyń"
+      },
+      {
+        "city": "Kutno (Woj. Łódzkie)"
+      },
+      {
+        "city": "Gniezno"
+      },
+      {
+        "city": "Szczecin"
+      },
+      {
+        "city": "Zabrze (Woj. Śląskie)"
+      },
+      {
+        "city": "Wleń"
+      },
+      {
+        "city": "Siemonia (Woj. Śląskie)"
+      },
+      {
+        "city": "Skarbimierz (woj. Opolskie)"
+      },
+      {
+        "city": "Łódź"
+      },
+      {
+        "city": "Czyżowice (Woj. Śląskie)"
+      },
+      {
+        "city": "Konin"
+      },
+      {
+        "city": "Jastrzębie-Zdrój"
+      },
+      {
+        "city": "Białystok"
+      },
+      {
+        "city": "Ełk"
+      },
+      {
+        "city": "Myślenice"
+      },
+      {
+        "city": "Katowice"
+      },
+      {
+        "city": "Nadarzyn (Woj. Mazowieckie)"
+      },
+      {
+        "city": "Rybnik"
+      },
+      {
+        "city": "Włocławek"
+      },
+      {
+        "city": "Stargard Szczeciński"
+      },
+      {
+        "city": "Łutowiec"
+      },
+      {
+        "city": "Częstochowa"
+      },
+      {
+        "city": "Kielce"
+      },
+      {
+        "city": "Opole"
+      },
+      {
+        "city": "Krosno"
+      }
     ]
   },
   {
@@ -7121,6 +8350,272 @@
         "location": "Kraków",
         "genres": "Gry/E-Sport"
       }
+    ],
+    "unique_citeis": [
+      {
+        "city": "Kórnik (Woj. Wielkopolskie)"
+      },
+      {
+        "city": "Gliśno Wielkie (Woj. pomorskie)"
+      },
+      {
+        "city": "Suwałki"
+      },
+      {
+        "city": "Bielsko-Biała"
+      },
+      {
+        "city": "Ustroń"
+      },
+      {
+        "city": "Łask"
+      },
+      {
+        "city": "Szczecinek"
+      },
+      {
+        "city": "Nowy Dwór Mazowiecki"
+      },
+      {
+        "city": "Zielona Góra"
+      },
+      {
+        "city": "Wrocław"
+      },
+      {
+        "city": "Stalowa Wola"
+      },
+      {
+        "city": "Nysa"
+      },
+      {
+        "city": "Gdańsk"
+      },
+      {
+        "city": "Malbork"
+      },
+      {
+        "city": "Toruń"
+      },
+      {
+        "city": "Ząbkowice Śląskie"
+      },
+      {
+        "city": "Chojnice"
+      },
+      {
+        "city": "Siedlce"
+      },
+      {
+        "city": "Lublin"
+      },
+      {
+        "city": "Wojsławice-Kolonia (Woj. Lubelskie)"
+      },
+      {
+        "city": "Bytom"
+      },
+      {
+        "city": "Dąbrowa Górnicza"
+      },
+      {
+        "city": "Grajewo"
+      },
+      {
+        "city": "Ostróda"
+      },
+      {
+        "city": "Racibórz"
+      },
+      {
+        "city": "Bydgoszcz"
+      },
+      {
+        "city": "Warszawa"
+      },
+      {
+        "city": "Chroszcz"
+      },
+      {
+        "city": "Kędzierzyn-Koźle"
+      },
+      {
+        "city": "Świdnik"
+      },
+      {
+        "city": "Będzin"
+      },
+      {
+        "city": "Brodnica"
+      },
+      {
+        "city": "Chorzów"
+      },
+      {
+        "city": "Gdynia"
+      },
+      {
+        "city": "Nadarzyn"
+      },
+      {
+        "city": "Płock"
+      },
+      {
+        "city": "Piła"
+      },
+      {
+        "city": "Kuńkowce (Woj. Podkarpackie)"
+      },
+      {
+        "city": "Mieczewo (Kórnik)"
+      },
+      {
+        "city": "Rzeszów"
+      },
+      {
+        "city": "Zabrze"
+      },
+      {
+        "city": "Czernica"
+      },
+      {
+        "city": "Radzyń Podlaski"
+      },
+      {
+        "city": "Gorzów Wielkopolski"
+      },
+      {
+        "city": "Kalisz"
+      },
+      {
+        "city": "Legnica"
+      },
+      {
+        "city": "Giżycko"
+      },
+      {
+        "city": "Poznań"
+      },
+      {
+        "city": "Kraków"
+      },
+      {
+        "city": "Żywiec"
+      },
+      {
+        "city": "Pszów (Woj. Śląskie)"
+      },
+      {
+        "city": "Bielawa"
+      },
+      {
+        "city": "Wola Wodyńska"
+      },
+      {
+        "city": "Gliwice"
+      },
+      {
+        "city": "Miedzna Murowana"
+      },
+      {
+        "city": "Tczew"
+      },
+      {
+        "city": "Nowy Targ"
+      },
+      {
+        "city": "Cieszyn"
+      },
+      {
+        "city": "Skierniewice"
+      },
+      {
+        "city": "Zamość"
+      },
+      {
+        "city": "Gostyń"
+      },
+      {
+        "city": "Przemyśl"
+      },
+      {
+        "city": "Gniezno"
+      },
+      {
+        "city": "Szczecin"
+      },
+      {
+        "city": "Puszcza Kozienicka"
+      },
+      {
+        "city": "Wleń"
+      },
+      {
+        "city": "Skarbimierz (woj. Opolskie)"
+      },
+      {
+        "city": "Czyżowice"
+      },
+      {
+        "city": "Łódź"
+      },
+      {
+        "city": "Konin"
+      },
+      {
+        "city": "Białystok"
+      },
+      {
+        "city": "Ostrów Wielkopolski"
+      },
+      {
+        "city": "Głóchów"
+      },
+      {
+        "city": "Katowice"
+      },
+      {
+        "city": "Brzeg"
+      },
+      {
+        "city": "Tomaszów Mazowiecki"
+      },
+      {
+        "city": "Nadarzyn (Woj. Mazowieckie)"
+      },
+      {
+        "city": "Rybnik"
+      },
+      {
+        "city": "Kępno"
+      },
+      {
+        "city": "Stargard Szczeciński"
+      },
+      {
+        "city": "Władysławowo"
+      },
+      {
+        "city": "Karolew (Woj. Łódzkie)"
+      },
+      {
+        "city": "Łutowiec"
+      },
+      {
+        "city": "Częstochowa"
+      },
+      {
+        "city": "Kielce"
+      },
+      {
+        "city": "Opole"
+      },
+      {
+        "city": "Krosno"
+      },
+      {
+        "city": "Przywidz (Woj. Pomorskie)"
+      }
     ]
   },
   {
@@ -8295,6 +9790,254 @@
         "location": "Warszawa",
         "genres": "Fantastyka"
       }
+    ],
+    "unique_citeis": [
+      {
+        "city": "Czatachowa"
+      },
+      {
+        "city": "Ciechanów"
+      },
+      {
+        "city": "Suwałki"
+      },
+      {
+        "city": "Gliśno Wielkie"
+      },
+      {
+        "city": "Choroszcz"
+      },
+      {
+        "city": "Nowy Dwór Mazowiecki"
+      },
+      {
+        "city": "Zielona Góra"
+      },
+      {
+        "city": "Wrocław"
+      },
+      {
+        "city": "Stalowa Wola"
+      },
+      {
+        "city": "Klepczarnia"
+      },
+      {
+        "city": "Kleosin"
+      },
+      {
+        "city": "Gdańsk"
+      },
+      {
+        "city": "Nysa"
+      },
+      {
+        "city": "Malbork"
+      },
+      {
+        "city": "Toruń"
+      },
+      {
+        "city": "Chojnice"
+      },
+      {
+        "city": "Siedlce"
+      },
+      {
+        "city": "Lublin"
+      },
+      {
+        "city": "Przywidz"
+      },
+      {
+        "city": "Dąbrowa Górnicza"
+      },
+      {
+        "city": "Racibórz"
+      },
+      {
+        "city": "Bydgoszcz"
+      },
+      {
+        "city": "Mierki"
+      },
+      {
+        "city": "Warszawa"
+      },
+      {
+        "city": "Wojsławice Kolonia (Woj. Lubelskie)"
+      },
+      {
+        "city": "Świdnik"
+      },
+      {
+        "city": "Stargard"
+      },
+      {
+        "city": "Sopot"
+      },
+      {
+        "city": "Pszów"
+      },
+      {
+        "city": "Chorzów"
+      },
+      {
+        "city": "Chełm"
+      },
+      {
+        "city": "Gdynia"
+      },
+      {
+        "city": "Nadarzyn"
+      },
+      {
+        "city": "Płock"
+      },
+      {
+        "city": "Piła"
+      },
+      {
+        "city": "Raciborz"
+      },
+      {
+        "city": "Mieczewo (Kórnik)"
+      },
+      {
+        "city": "Leszno"
+      },
+      {
+        "city": "Rzeszów"
+      },
+      {
+        "city": "Starachowice"
+      },
+      {
+        "city": "Grodziec"
+      },
+      {
+        "city": "Skrzyszów"
+      },
+      {
+        "city": "Gorzów Wielkopolski"
+      },
+      {
+        "city": "Siemonia"
+      },
+      {
+        "city": "Żory"
+      },
+      {
+        "city": "Legnica"
+      },
+      {
+        "city": "Giżycko"
+      },
+      {
+        "city": "Poznań"
+      },
+      {
+        "city": "Ropczyce"
+      },
+      {
+        "city": "Kraków"
+      },
+      {
+        "city": "Głuchów"
+      },
+      {
+        "city": "Żywiec"
+      },
+      {
+        "city": "Siemianowice Śląskie"
+      },
+      {
+        "city": "Bielawa"
+      },
+      {
+        "city": "Wola Wodyńska"
+      },
+      {
+        "city": "Sucha"
+      },
+      {
+        "city": "Gliwice"
+      },
+      {
+        "city": "Wołów"
+      },
+      {
+        "city": "Łeba"
+      },
+      {
+        "city": "Skierniewice"
+      },
+      {
+        "city": "Zamość"
+      },
+      {
+        "city": "Gostyń"
+      },
+      {
+        "city": "Lubomierz"
+      },
+      {
+        "city": "Przemyśl"
+      },
+      {
+        "city": "Gniezno"
+      },
+      {
+        "city": "Puszcza Kozienicka"
+      },
+      {
+        "city": "Skarbimierz (woj. Opolskie)"
+      },
+      {
+        "city": "Łódź"
+      },
+      {
+        "city": "Konin"
+      },
+      {
+        "city": "Białystok"
+      },
+      {
+        "city": "Jastrzębie-Zdrój"
+      },
+      {
+        "city": "Ostrów Wielkopolski"
+      },
+      {
+        "city": "Katowice"
+      },
+      {
+        "city": "Brzeg"
+      },
+      {
+        "city": "Rybnik"
+      },
+      {
+        "city": "Kępno"
+      },
+      {
+        "city": "Łutowiec"
+      },
+      {
+        "city": "Częstochowa"
+      },
+      {
+        "city": "Kielce"
+      },
+      {
+        "city": "Rumia"
+      },
+      {
+        "city": "Opole"
+      },
+      {
+        "city": "Krosno"
+      }
     ]
   },
   {
@@ -9063,6 +10806,167 @@
         "location": "Internet",
         "genres": "Manga & Anime"
       }
+    ],
+    "unique_citeis": [
+      {
+        "city": "Przywidz"
+      },
+      {
+        "city": "Czatachowa"
+      },
+      {
+        "city": "Internet"
+      },
+      {
+        "city": "Ciechanów"
+      },
+      {
+        "city": "Gostyń"
+      },
+      {
+        "city": "Przemyśl"
+      },
+      {
+        "city": "Szczecin"
+      },
+      {
+        "city": "Gniezno"
+      },
+      {
+        "city": "Grodziec"
+      },
+      {
+        "city": "Namysłów"
+      },
+      {
+        "city": "Mieczewo"
+      },
+      {
+        "city": "Kuńkowce"
+      },
+      {
+        "city": "Choroszcz"
+      },
+      {
+        "city": "Gorzów Wielkopolski"
+      },
+      {
+        "city": "Łódź"
+      },
+      {
+        "city": "Konin"
+      },
+      {
+        "city": "Białystok"
+      },
+      {
+        "city": "Nowy Dwór Mazowiecki"
+      },
+      {
+        "city": "Bydgoszcz"
+      },
+      {
+        "city": "Mierki"
+      },
+      {
+        "city": "Ostrów Wielkopolski"
+      },
+      {
+        "city": "Warszawa"
+      },
+      {
+        "city": "Legnica"
+      },
+      {
+        "city": "Poznań"
+      },
+      {
+        "city": "Katowice"
+      },
+      {
+        "city": "Świdnik"
+      },
+      {
+        "city": "Skarbimierz"
+      },
+      {
+        "city": "Kraków"
+      },
+      {
+        "city": "Stargard"
+      },
+      {
+        "city": "Brzeg"
+      },
+      {
+        "city": "Wrocław"
+      },
+      {
+        "city": "Stalowa Wola"
+      },
+      {
+        "city": "Chełm"
+      },
+      {
+        "city": "Gdynia"
+      },
+      {
+        "city": "Chorzów"
+      },
+      {
+        "city": "Nadarzyn"
+      },
+      {
+        "city": "Nysa"
+      },
+      {
+        "city": "Gdańsk"
+      },
+      {
+        "city": "Dziergowice"
+      },
+      {
+        "city": "Piła"
+      },
+      {
+        "city": "Sosnowiec"
+      },
+      {
+        "city": "Rybnik"
+      },
+      {
+        "city": "Żywiec"
+      },
+      {
+        "city": "Bielawa"
+      },
+      {
+        "city": "Toruń"
+      },
+      {
+        "city": "Byczyna"
+      },
+      {
+        "city": "Siedlce"
+      },
+      {
+        "city": "Częstochowa"
+      },
+      {
+        "city": "Łutowiec"
+      },
+      {
+        "city": "Rumia"
+      },
+      {
+        "city": "Gliwice"
+      },
+      {
+        "city": "Opole"
+      },
+      {
+        "city": "internet"
+      }
     ]
   },
   {
@@ -9641,6 +11545,107 @@
         "name": "Magnificon Expo 2021",
         "location": "Kraków",
         "genres": "Manga & Anime"
+      }
+    ],
+    "unique_citeis": [
+      {
+        "city": "Skierniewice"
+      },
+      {
+        "city": "Jastrzębia Góra"
+      },
+      {
+        "city": "Czatachowa"
+      },
+      {
+        "city": "Internet"
+      },
+      {
+        "city": "Szczecin"
+      },
+      {
+        "city": "Wojkowice"
+      },
+      {
+        "city": "Susz"
+      },
+      {
+        "city": "Dąbrowa Górnicza"
+      },
+      {
+        "city": "Łódź"
+      },
+      {
+        "city": "Nowy Dwór Mazowiecki"
+      },
+      {
+        "city": "Warszawa"
+      },
+      {
+        "city": "Wojsławice Kolonia (Woj. Lubelskie)"
+      },
+      {
+        "city": "Giżycko"
+      },
+      {
+        "city": "Poznań"
+      },
+      {
+        "city": "Katowice"
+      },
+      {
+        "city": "Kubice"
+      },
+      {
+        "city": "Brzeg"
+      },
+      {
+        "city": "Stargard"
+      },
+      {
+        "city": "Kraków"
+      },
+      {
+        "city": "Wrocław"
+      },
+      {
+        "city": "Nysa"
+      },
+      {
+        "city": "Gdańsk"
+      },
+      {
+        "city": "Piła"
+      },
+      {
+        "city": "Kalbornia"
+      },
+      {
+        "city": "Kępno"
+      },
+      {
+        "city": "Łupki"
+      },
+      {
+        "city": "Wola Wodyńska"
+      },
+      {
+        "city": "Sucha"
+      },
+      {
+        "city": "Łutowiec"
+      },
+      {
+        "city": "Kielce"
+      },
+      {
+        "city": "Opole"
+      },
+      {
+        "city": "Lublin"
+      },
+      {
+        "city": "Nidzica"
       }
     ]
   },
@@ -10696,6 +12701,206 @@
         "name": "Chibimatsuri: Święta 2022",
         "location": "Warszawa",
         "genres": "Manga & Anime"
+      }
+    ],
+    "unique_citeis": [
+      {
+        "city": "Jaworze"
+      },
+      {
+        "city": "Skierniewice"
+      },
+      {
+        "city": "Skarbimierz Osiedle"
+      },
+      {
+        "city": "Jastrzębia Góra"
+      },
+      {
+        "city": "Radom"
+      },
+      {
+        "city": "Czatachowa"
+      },
+      {
+        "city": "Internet"
+      },
+      {
+        "city": "Zamość"
+      },
+      {
+        "city": "Niegowa"
+      },
+      {
+        "city": "Gostyń"
+      },
+      {
+        "city": "Bielsko-Biała"
+      },
+      {
+        "city": "Grodzisk Wielkopolski"
+      },
+      {
+        "city": "Szczecin"
+      },
+      {
+        "city": "Gniezno"
+      },
+      {
+        "city": "Suwałki"
+      },
+      {
+        "city": "Siemanowice Śląskie"
+      },
+      {
+        "city": "Bytom"
+      },
+      {
+        "city": "Lublin"
+      },
+      {
+        "city": "Namysłów"
+      },
+      {
+        "city": "Dąbrowa Górnicza"
+      },
+      {
+        "city": "Rawa Mazowiecka"
+      },
+      {
+        "city": "Augustów"
+      },
+      {
+        "city": "Czyżowice"
+      },
+      {
+        "city": "Jastrzębie Zdrój"
+      },
+      {
+        "city": "Łódź"
+      },
+      {
+        "city": "Gorzów Wielkopolski"
+      },
+      {
+        "city": "Racibórz"
+      },
+      {
+        "city": "Białystok"
+      },
+      {
+        "city": "Zielona Góra"
+      },
+      {
+        "city": "Bydgoszcz"
+      },
+      {
+        "city": "Ostrzyce"
+      },
+      {
+        "city": "Ostrów Wielkopolski"
+      },
+      {
+        "city": "Warszawa"
+      },
+      {
+        "city": "Zarzęcin"
+      },
+      {
+        "city": "Ryjewo"
+      },
+      {
+        "city": "Poznań"
+      },
+      {
+        "city": "Katowice"
+      },
+      {
+        "city": "Domaszkowice"
+      },
+      {
+        "city": "Kraków"
+      },
+      {
+        "city": "Głuchów"
+      },
+      {
+        "city": "Wrocław"
+      },
+      {
+        "city": "Chorzów"
+      },
+      {
+        "city": "Pieńsk"
+      },
+      {
+        "city": "Gdynia"
+      },
+      {
+        "city": "Stalowa Wola"
+      },
+      {
+        "city": "Lipka"
+      },
+      {
+        "city": "Wojsławice"
+      },
+      {
+        "city": "Nysa"
+      },
+      {
+        "city": "Gdańsk"
+      },
+      {
+        "city": "Węgrów"
+      },
+      {
+        "city": "Sosnowiec"
+      },
+      {
+        "city": "Piła"
+      },
+      {
+        "city": "Orzesze"
+      },
+      {
+        "city": "Kępno"
+      },
+      {
+        "city": "Rybnik"
+      },
+      {
+        "city": "Bielawa"
+      },
+      {
+        "city": "Krosno"
+      },
+      {
+        "city": "Toruń"
+      },
+      {
+        "city": "Wola Wodyńska"
+      },
+      {
+        "city": "Chęciny"
+      },
+      {
+        "city": "Częstochowa"
+      },
+      {
+        "city": "Rumia"
+      },
+      {
+        "city": "Gliwice"
+      },
+      {
+        "city": "Bobrowniki"
+      },
+      {
+        "city": "Opole"
+      },
+      {
+        "city": "Szamotuły"
       }
     ]
   },
@@ -11912,6 +14117,221 @@
         "name": "Chibimatsuri: Święta 2023",
         "location": "Warszawa",
         "genres": "Manga & Anime"
+      }
+    ],
+    "unique_citeis": [
+      {
+        "city": "Skierniewice"
+      },
+      {
+        "city": "Przecław (woj. zachodniopomorskie)"
+      },
+      {
+        "city": "Jastrzębia Góra"
+      },
+      {
+        "city": "Czatachowa"
+      },
+      {
+        "city": "Zamość"
+      },
+      {
+        "city": "Wolbórz"
+      },
+      {
+        "city": "Niegowa"
+      },
+      {
+        "city": "Gostyń"
+      },
+      {
+        "city": "Wołomin"
+      },
+      {
+        "city": "Białogard"
+      },
+      {
+        "city": "Szczecin"
+      },
+      {
+        "city": "Gniezno"
+      },
+      {
+        "city": "Grodzisk Wielkopolski"
+      },
+      {
+        "city": "Suwałki"
+      },
+      {
+        "city": "Lublin"
+      },
+      {
+        "city": "Debrzno"
+      },
+      {
+        "city": "Czyżowice"
+      },
+      {
+        "city": "Inowrocław"
+      },
+      {
+        "city": "Biedrusko"
+      },
+      {
+        "city": "Gorzów Wielkopolski"
+      },
+      {
+        "city": "Łódź"
+      },
+      {
+        "city": "Racibórz"
+      },
+      {
+        "city": "Lipnica"
+      },
+      {
+        "city": "Jastrzębie-Zdrój"
+      },
+      {
+        "city": "Białystok"
+      },
+      {
+        "city": "Ostrowiec Świętokrzyski"
+      },
+      {
+        "city": "Bydgoszcz"
+      },
+      {
+        "city": "Zielona Góra"
+      },
+      {
+        "city": "Siemonia"
+      },
+      {
+        "city": "Żory"
+      },
+      {
+        "city": "Ostrów Wielkopolski"
+      },
+      {
+        "city": "Warszawa"
+      },
+      {
+        "city": "Wieprz"
+      },
+      {
+        "city": "Zarzęcin"
+      },
+      {
+        "city": "Rydułtowy"
+      },
+      {
+        "city": "Kęty"
+      },
+      {
+        "city": "Internet"
+      },
+      {
+        "city": "Poznań"
+      },
+      {
+        "city": "Katowice"
+      },
+      {
+        "city": "Kubice"
+      },
+      {
+        "city": "Żnin"
+      },
+      {
+        "city": "Kraków"
+      },
+      {
+        "city": "Rawicz"
+      },
+      {
+        "city": "Stalowa Wola"
+      },
+      {
+        "city": "Chorzów"
+      },
+      {
+        "city": "Wrocław"
+      },
+      {
+        "city": "Gdynia"
+      },
+      {
+        "city": "Olsztyn"
+      },
+      {
+        "city": "Nadarzyn"
+      },
+      {
+        "city": "Maróz"
+      },
+      {
+        "city": "Wojsławice"
+      },
+      {
+        "city": "Gdańsk"
+      },
+      {
+        "city": "Bolków"
+      },
+      {
+        "city": "Węgrów"
+      },
+      {
+        "city": "Sosnowiec"
+      },
+      {
+        "city": "Skarbimierz-Osiedle"
+      },
+      {
+        "city": "Piła"
+      },
+      {
+        "city": "Płock"
+      },
+      {
+        "city": "Rybnik"
+      },
+      {
+        "city": "Olsztynek"
+      },
+      {
+        "city": "Siemianowice Śląskie"
+      },
+      {
+        "city": "Bielawa"
+      },
+      {
+        "city": "Toruń"
+      },
+      {
+        "city": "Staszów"
+      },
+      {
+        "city": "Wola Wodyńska"
+      },
+      {
+        "city": "Częstochowa"
+      },
+      {
+        "city": "Rumia"
+      },
+      {
+        "city": "Gliwice"
+      },
+      {
+        "city": "Opole"
+      },
+      {
+        "city": "Kielce"
+      },
+      {
+        "city": "Nowy Targ"
       }
     ]
   },
@@ -13191,6 +15611,239 @@
         "name": "Mrozikon 2024",
         "location": "Grodzisk Wielkopolski",
         "genres": "Manga & Anime"
+      }
+    ],
+    "unique_citeis": [
+      {
+        "city": "Czatachowa"
+      },
+      {
+        "city": "Suwałki"
+      },
+      {
+        "city": "Grodzisk Wielkopolski"
+      },
+      {
+        "city": "Białogard"
+      },
+      {
+        "city": "Bielsko-Biała"
+      },
+      {
+        "city": "Tuchola"
+      },
+      {
+        "city": "Zielona Góra"
+      },
+      {
+        "city": "Radziechowy"
+      },
+      {
+        "city": "Stalowa Wola"
+      },
+      {
+        "city": "Wrocław"
+      },
+      {
+        "city": "Gdańsk"
+      },
+      {
+        "city": "Nysa"
+      },
+      {
+        "city": "Zakrzewo (koło Makowa Mazowieckiego)"
+      },
+      {
+        "city": "Skarbimierz-Osiedle"
+      },
+      {
+        "city": "Toruń"
+      },
+      {
+        "city": "Szamotuły"
+      },
+      {
+        "city": "Lublin"
+      },
+      {
+        "city": "Bydgoszcz"
+      },
+      {
+        "city": "Warszawa"
+      },
+      {
+        "city": "Zarzęcin"
+      },
+      {
+        "city": "Wodzisław Śląski"
+      },
+      {
+        "city": "Sopot"
+      },
+      {
+        "city": "Chorzów"
+      },
+      {
+        "city": "Gdynia"
+      },
+      {
+        "city": "Wojsławice"
+      },
+      {
+        "city": "Płock"
+      },
+      {
+        "city": "Węgrów"
+      },
+      {
+        "city": "Piła"
+      },
+      {
+        "city": "Słupsk"
+      },
+      {
+        "city": "Waplewo"
+      },
+      {
+        "city": "Jastrzębia Góra"
+      },
+      {
+        "city": "Lubin"
+      },
+      {
+        "city": "Starachowice"
+      },
+      {
+        "city": "Namysłów"
+      },
+      {
+        "city": "Gorzów Wielkopolski"
+      },
+      {
+        "city": "Siemonia"
+      },
+      {
+        "city": "Żory"
+      },
+      {
+        "city": "Poznań"
+      },
+      {
+        "city": "Zwoleń"
+      },
+      {
+        "city": "Kraków"
+      },
+      {
+        "city": "Mikołów"
+      },
+      {
+        "city": "Zbąszynek"
+      },
+      {
+        "city": "Wola Wodyńska"
+      },
+      {
+        "city": "Gliwice"
+      },
+      {
+        "city": "Nakło Śląskie"
+      },
+      {
+        "city": "Przecław (woj. zachodniopomorskie)"
+      },
+      {
+        "city": "Skierniewice"
+      },
+      {
+        "city": "Zamość"
+      },
+      {
+        "city": "Niegowa"
+      },
+      {
+        "city": "Gostyń"
+      },
+      {
+        "city": "Wołomin"
+      },
+      {
+        "city": "Kwidzyn"
+      },
+      {
+        "city": "Gniezno"
+      },
+      {
+        "city": "Czyżowice"
+      },
+      {
+        "city": "Spytkowice"
+      },
+      {
+        "city": "Kuńkowce"
+      },
+      {
+        "city": "Łódź"
+      },
+      {
+        "city": "Lipnica"
+      },
+      {
+        "city": "Białystok"
+      },
+      {
+        "city": "Ostrów Wielkopolski"
+      },
+      {
+        "city": "Myślenice"
+      },
+      {
+        "city": "Katowice"
+      },
+      {
+        "city": "Kubice"
+      },
+      {
+        "city": "Żnin"
+      },
+      {
+        "city": "Brzeg"
+      },
+      {
+        "city": "Rawicz"
+      },
+      {
+        "city": "Brożek"
+      },
+      {
+        "city": "Olsztyn"
+      },
+      {
+        "city": "Rybnik"
+      },
+      {
+        "city": "Włocławek"
+      },
+      {
+        "city": "Staszów"
+      },
+      {
+        "city": "Częstochowa"
+      },
+      {
+        "city": "Kielce"
+      },
+      {
+        "city": "Puławy"
+      },
+      {
+        "city": "Opole"
+      },
+      {
+        "city": "Krosno"
+      },
+      {
+        "city": "Potępa"
       }
     ]
   },
@@ -14478,6 +17131,254 @@
         "location": "Warszawa",
         "genres": "Manga & Anime"
       }
+    ],
+    "unique_citeis": [
+      {
+        "city": "Boguszowice"
+      },
+      {
+        "city": "Czatachowa"
+      },
+      {
+        "city": "Suwałki"
+      },
+      {
+        "city": "Grodzisk Wielkopolski"
+      },
+      {
+        "city": "Białogard"
+      },
+      {
+        "city": "Bielsko-Biała"
+      },
+      {
+        "city": "Sokółka"
+      },
+      {
+        "city": "Zielona Góra"
+      },
+      {
+        "city": "Śródmieście"
+      },
+      {
+        "city": "Wrocław"
+      },
+      {
+        "city": "Stalowa Wola"
+      },
+      {
+        "city": "Gdańsk"
+      },
+      {
+        "city": "Skarbimierz-Osiedle"
+      },
+      {
+        "city": "Olecko"
+      },
+      {
+        "city": "Toruń"
+      },
+      {
+        "city": "Baborów"
+      },
+      {
+        "city": "Lublin"
+      },
+      {
+        "city": "Bolesławiec"
+      },
+      {
+        "city": "Racibórz"
+      },
+      {
+        "city": "Bydgoszcz"
+      },
+      {
+        "city": "Warszawa"
+      },
+      {
+        "city": "Świdnik"
+      },
+      {
+        "city": "Chorzów"
+      },
+      {
+        "city": "Gdynia"
+      },
+      {
+        "city": "Wojsławice"
+      },
+      {
+        "city": "Skarżysko-Kamienna"
+      },
+      {
+        "city": "Płock"
+      },
+      {
+        "city": "Węgrów"
+      },
+      {
+        "city": "Piła"
+      },
+      {
+        "city": "Zgorzelec"
+      },
+      {
+        "city": "Ciechocinek"
+      },
+      {
+        "city": "Słupsk"
+      },
+      {
+        "city": "Leszno"
+      },
+      {
+        "city": "Waplewo"
+      },
+      {
+        "city": "Ursynów"
+      },
+      {
+        "city": "Lubin"
+      },
+      {
+        "city": "Starachowice"
+      },
+      {
+        "city": "Namysłów"
+      },
+      {
+        "city": "Gorzów Wielkopolski"
+      },
+      {
+        "city": "Pruszków"
+      },
+      {
+        "city": "Poznań"
+      },
+      {
+        "city": "Kraków"
+      },
+      {
+        "city": "Skępe"
+      },
+      {
+        "city": "Siemianowice Śląskie"
+      },
+      {
+        "city": "Bielawa"
+      },
+      {
+        "city": "Gliwice"
+      },
+      {
+        "city": "Świnna"
+      },
+      {
+        "city": "Jelcz-Laskowice"
+      },
+      {
+        "city": "Nowy Targ"
+      },
+      {
+        "city": "Skierniewice"
+      },
+      {
+        "city": "Przecław (woj. zachodniopomorskie)"
+      },
+      {
+        "city": "Puszczykowo"
+      },
+      {
+        "city": "Zamość"
+      },
+      {
+        "city": "Gostyń"
+      },
+      {
+        "city": "Kwidzyn"
+      },
+      {
+        "city": "Wołomin"
+      },
+      {
+        "city": "Gniezno"
+      },
+      {
+        "city": "Szczecin"
+      },
+      {
+        "city": "Czyżowice"
+      },
+      {
+        "city": "Spytkowice"
+      },
+      {
+        "city": "Jastrzębie Zdrój"
+      },
+      {
+        "city": "Łódź"
+      },
+      {
+        "city": "Lipnica"
+      },
+      {
+        "city": "Jastrzębie-Zdrój"
+      },
+      {
+        "city": "Białystok"
+      },
+      {
+        "city": "Ostrów Wielkopolski"
+      },
+      {
+        "city": "Ełk"
+      },
+      {
+        "city": "Myślenice"
+      },
+      {
+        "city": "Katowice"
+      },
+      {
+        "city": "Brzeg"
+      },
+      {
+        "city": "Rawicz"
+      },
+      {
+        "city": "Olsztyn"
+      },
+      {
+        "city": "Brożek"
+      },
+      {
+        "city": "Rybnik"
+      },
+      {
+        "city": "Kępno"
+      },
+      {
+        "city": "Włocławek"
+      },
+      {
+        "city": "Staszów"
+      },
+      {
+        "city": "Trójmiasto"
+      },
+      {
+        "city": "Częstochowa"
+      },
+      {
+        "city": "Kielce"
+      },
+      {
+        "city": "Opole"
+      },
+      {
+        "city": "Krosno"
+      }
     ]
   },
   {
@@ -15178,7 +18079,7 @@
       },
       {
         "start_date": "25.07.2026",
-        "end_date": "26.07.2026",
+        "end_date": "",
         "name": "Manekicon Natsuri 2026",
         "location": "Wrocław",
         "genres": "Manga & Anime"
@@ -15289,6 +18190,13 @@
         "genres": "Mieszane"
       },
       {
+        "start_date": "22.08.2026",
+        "end_date": "",
+        "name": "Nami Airando 2026",
+        "location": "Wrocław",
+        "genres": "Manga & Anime"
+      },
+      {
         "start_date": "28.08.2026",
         "end_date": "30.08.2026",
         "name": "Hikari 2026",
@@ -15345,11 +18253,25 @@
         "genres": "Fantastyka"
       },
       {
+        "start_date": "12.09.2026",
+        "end_date": "13.09.2026",
+        "name": "Mangocon 2026",
+        "location": "Częstochowa",
+        "genres": "Manga & Anime"
+      },
+      {
         "start_date": "18.09.2026",
         "end_date": "20.09.2026",
         "name": "Copernicon 2026 - Festiwal Fantastyki w Toruniu",
         "location": "Toruń",
         "genres": "Fantastyka"
+      },
+      {
+        "start_date": "18.09.2026",
+        "end_date": "20.09.2026",
+        "name": "Machina Futura 2026",
+        "location": "Poznań",
+        "genres": "LARP i RPG"
       },
       {
         "start_date": "19.09.2026",
@@ -15367,7 +18289,7 @@
       },
       {
         "start_date": "25.09.2026",
-        "end_date": "28.06.2026",
+        "end_date": "27.09.2026",
         "name": "Lubelskie Targi Książki 2026",
         "location": "Lublin",
         "genres": "Książki"
@@ -15394,6 +18316,13 @@
         "genres": "Fantastyka"
       },
       {
+        "start_date": "26.09.2026",
+        "end_date": "27.09.2026",
+        "name": "IV Festiwal Książek w Płocku",
+        "location": "Płock",
+        "genres": "Książki"
+      },
+      {
         "start_date": "02.10.2026",
         "end_date": "04.10.2026",
         "name": "Bielsko-Biala Gaming Festival 4.0",
@@ -15417,9 +18346,23 @@
       {
         "start_date": "10.10.2026",
         "end_date": "11.10.2026",
-        "name": "Niucon 2026 Jesień",
+        "name": "Targ Japoński Niucon 2026 Jesień",
         "location": "Wrocław",
         "genres": "Manga & Anime"
+      },
+      {
+        "start_date": "10.10.2026",
+        "end_date": "11.10.2026",
+        "name": "Ryucon Silesia 2026",
+        "location": "Gliwice",
+        "genres": "Manga & Anime"
+      },
+      {
+        "start_date": "10.10.2026",
+        "end_date": "",
+        "name": "Nieckon 2026",
+        "location": "Rumia",
+        "genres": "LARP i RPG"
       },
       {
         "start_date": "16.10.2026",
@@ -15444,10 +18387,24 @@
       },
       {
         "start_date": "06.11.2026",
+        "end_date": "08.11.2026",
+        "name": "XXIV Imladris - Krakowskie Weekendy z Fantastyką",
+        "location": "Kraków",
+        "genres": "Fantastyka"
+      },
+      {
+        "start_date": "06.11.2026",
         "end_date": "07.11.2026",
         "name": "Pasja Minicon 2026",
         "location": "Gdynia",
         "genres": "Fantastyka"
+      },
+      {
+        "start_date": "06.11.2026",
+        "end_date": "08.11.2026",
+        "name": "Jesienny Festiwal Mangowy",
+        "location": "Targówek",
+        "genres": "Manga & Anime"
       },
       {
         "start_date": "07.11.2026",
@@ -15491,6 +18448,221 @@
         "location": "Kraków",
         "genres": "Manga & Anime"
       }
+    ],
+    "unique_citeis": [
+      {
+        "city": "Kołobrzeg"
+      },
+      {
+        "city": "Przecław (woj. zachodniopomorskie)"
+      },
+      {
+        "city": "Skierniewice"
+      },
+      {
+        "city": "Rzeszów"
+      },
+      {
+        "city": "Czatachowa"
+      },
+      {
+        "city": "Zamość"
+      },
+      {
+        "city": "Suwałki"
+      },
+      {
+        "city": "Gostyń"
+      },
+      {
+        "city": "Grodzisk Wielkopolski"
+      },
+      {
+        "city": "Bielsko-Biała"
+      },
+      {
+        "city": "Wołomin"
+      },
+      {
+        "city": "Białogard"
+      },
+      {
+        "city": "Gniezno"
+      },
+      {
+        "city": "Zaniemyśl"
+      },
+      {
+        "city": "Siemoni"
+      },
+      {
+        "city": "Kwidzyn"
+      },
+      {
+        "city": "Tuchola"
+      },
+      {
+        "city": "Namysłów"
+      },
+      {
+        "city": "Racibór"
+      },
+      {
+        "city": "Sokółka"
+      },
+      {
+        "city": "Kuńkowce"
+      },
+      {
+        "city": "Gorzów Wielkopolski"
+      },
+      {
+        "city": "Łódź"
+      },
+      {
+        "city": "Racibórz"
+      },
+      {
+        "city": "Białystok"
+      },
+      {
+        "city": "Ostrowiec Świętokrzyski"
+      },
+      {
+        "city": "Bydgoszcz"
+      },
+      {
+        "city": "Wąwolnica"
+      },
+      {
+        "city": "Zielona Góra"
+      },
+      {
+        "city": "Kosakowo"
+      },
+      {
+        "city": "Ostrzyce"
+      },
+      {
+        "city": "Chrzanów"
+      },
+      {
+        "city": "Warszawa"
+      },
+      {
+        "city": "Targówek"
+      },
+      {
+        "city": "Poznań"
+      },
+      {
+        "city": "Katowice"
+      },
+      {
+        "city": "Mosina"
+      },
+      {
+        "city": "Będzin"
+      },
+      {
+        "city": "Kraków"
+      },
+      {
+        "city": "Rawicz"
+      },
+      {
+        "city": "Brzeg"
+      },
+      {
+        "city": "Wrocław"
+      },
+      {
+        "city": "Chorzów"
+      },
+      {
+        "city": "Stalowa Wola"
+      },
+      {
+        "city": "Gdynia"
+      },
+      {
+        "city": "Skarżyńsko-Kamienna"
+      },
+      {
+        "city": "Wojsławice"
+      },
+      {
+        "city": "Gdańsk"
+      },
+      {
+        "city": "Płock"
+      },
+      {
+        "city": "Węgrów"
+      },
+      {
+        "city": "Piła"
+      },
+      {
+        "city": "Jelcz-Laskowice"
+      },
+      {
+        "city": "Ciechocinek"
+      },
+      {
+        "city": "Siemianowice Śląskie"
+      },
+      {
+        "city": "Słupsk"
+      },
+      {
+        "city": "Krosno"
+      },
+      {
+        "city": "Toruń"
+      },
+      {
+        "city": "Baborów"
+      },
+      {
+        "city": "Radziewice"
+      },
+      {
+        "city": "Staszów"
+      },
+      {
+        "city": "Leszno"
+      },
+      {
+        "city": "Siedlce"
+      },
+      {
+        "city": "Częstochowa"
+      },
+      {
+        "city": "Opalenica"
+      },
+      {
+        "city": "Sieraków"
+      },
+      {
+        "city": "Gliwice"
+      },
+      {
+        "city": "Waplewo"
+      },
+      {
+        "city": "Kielce"
+      },
+      {
+        "city": "Rumia"
+      },
+      {
+        "city": "Opole"
+      },
+      {
+        "city": "Lublin"
+      }
     ]
   },
   {
@@ -15518,11 +18690,55 @@
         "genres": "Fantastyka"
       },
       {
+        "start_date": "25.06.2027",
+        "end_date": "26.06.2027",
+        "name": "Haja we Kosmosie - Ostań Kim Chcesz - Nowa Era",
+        "location": "Siemianowice Slaskie",
+        "genres": "Fantastyka"
+      },
+      {
+        "start_date": "03.07.2027",
+        "end_date": "04.07.2027",
+        "name": "RawiKon 2027",
+        "location": "Rawicz",
+        "genres": "Fantastyka"
+      },
+      {
+        "start_date": "16.07.2027",
+        "end_date": "18.07.2027",
+        "name": "XX Dni Jakuba Wędrowycza",
+        "location": "Wojsławice",
+        "genres": "Inne"
+      },
+      {
         "start_date": "06.08.2027",
         "end_date": "08.08.2027",
         "name": "Fantasy & Magic Con 2027",
         "location": "Warszawa",
         "genres": "Fantastyka"
+      }
+    ],
+    "unique_citeis": [
+      {
+        "city": "Siemianowice Slaskie"
+      },
+      {
+        "city": "Rawicz"
+      },
+      {
+        "city": "Wrocław"
+      },
+      {
+        "city": "Wojsławice"
+      },
+      {
+        "city": "Waplewo"
+      },
+      {
+        "city": "Warszawa"
+      },
+      {
+        "city": "Poznań"
       }
     ]
   },
@@ -15535,6 +18751,11 @@
         "name": "Remcon 2028 - 10 lecie",
         "location": "Gdańsk",
         "genres": "Manga & Anime"
+      }
+    ],
+    "unique_citeis": [
+      {
+        "city": "Gdańsk"
       }
     ]
   }

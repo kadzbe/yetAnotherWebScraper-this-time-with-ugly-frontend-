@@ -8,6 +8,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.chrome.options import Options
 from selenium import webdriver
 from flask import Flask, jsonify
+from collections import OrderedDict
 
 def main() -> None:
     
@@ -61,8 +62,10 @@ def main() -> None:
 
             years_click = driver.find_element(by=By.XPATH, value=f"//*[@id='rok_{click}']")
             driver.execute_script("arguments[0].click();", years_click)
-
             parsed_events = []
+            cities_set = set()
+            
+            cities = []
             for event in events:
                 date_range = event[0] if len(event) > 0 else ""
                 if " - " in date_range:
@@ -77,10 +80,17 @@ def main() -> None:
                     "location": event[2] if len(event) > 2 else "",
                     "genres": event[3] if len(event) > 3 else "",
                 })
+                # Zamiast listy tworzysz set
 
+                if len(event) > 2 and event[2]:
+                    cities_set.add(event[2])
+
+                # w sumie tu chodzi o zamiane na ten sam typ bo są różne 
+                cities = [{"city": city} for city in cities_set]
             json_data = {
                 "year": year,
                 "data": parsed_events,
+                "unique_citeis": cities
             }
             all_years.append(json_data)
             print(json.dumps(json_data, indent=2, ensure_ascii=False))
