@@ -1,11 +1,24 @@
 "use client"
-
+import { Input } from "@/components/ui/input"
+import * as React from "react"
 import {
   ColumnDef,
   flexRender,
+  ColumnFiltersState,
+  getFilteredRowModel,
   getCoreRowModel,
   useReactTable,
 } from "@tanstack/react-table"
+
+import {
+  Combobox,
+  ComboboxContent,
+  ComboboxEmpty,
+  ComboboxInput,
+  ComboboxItem,
+  ComboboxList,
+} from "@/components/ui/combobox"
+
 
 import {
   Table,
@@ -14,25 +27,65 @@ import {
   TableHead,
   TableHeader,
   TableRow,
+  
 } from "@/components/ui/table"
 
 interface DataTableProps<TData, TValue> {
   columns: ColumnDef<TData, TValue>[]
   data: TData[]
+  cityData?: string[]
 }
 
 export function DataTable<TData, TValue>({
   columns,
   data,
+  cityData
 }: DataTableProps<TData, TValue>) {
+    const [columnFilters, setColumnFilters] = React.useState<ColumnFiltersState>(
+    []
+  )
   const table = useReactTable({
     data,
     columns,
+    onColumnFiltersChange: setColumnFilters,
+    getFilteredRowModel: getFilteredRowModel(),
+    
     getCoreRowModel: getCoreRowModel(),
+    state:{
+      columnFilters
+    }
   })
 
   return (
-    <div className="overflow-hidden rounded-md border">
+    <div className="mx-auto w-full max-w-5xl overflow-hidden  backdrop-blur-xs ">
+      <div className="flex justify-center p-4  border-solid">
+      <Input
+          placeholder="Filter events"
+          value={(table.getColumn("name")?.getFilterValue() as string) ?? ""}
+          onChange={(event) =>
+            table.getColumn("name")?.setFilterValue(event.target.value)
+          }
+          className="max-w-xs flex justify-center " 
+        />
+        </div>
+        <div>
+          <Combobox 
+            items={cityData}
+            onValueChange={(val: any) => table.getColumn("location")?.setFilterValue(val ? val : undefined)}
+          >
+            <ComboboxInput placeholder="Select a location" showClear />
+            <ComboboxContent>
+              <ComboboxEmpty>No items found.</ComboboxEmpty>
+              <ComboboxList>
+                {(item) => (
+                  <ComboboxItem key={item} value={item}>
+                    {item}
+                  </ComboboxItem>
+                )}
+              </ComboboxList>
+            </ComboboxContent>
+          </Combobox>
+        </div>
       <Table>
         <TableHeader>
           {table.getHeaderGroups().map((headerGroup) => (
