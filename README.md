@@ -1,4 +1,31 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# OvOdoc
+A website for looking up anime conventions in Poland, that looks kind of good 
+
+
+
+### About project
+
+So I wanted to create a website to look up anime conventions in Poland because the one that most people are using doesnt look that good
+and I wanted to see if I could do a better job andddddd I wanted to get some stickers since there was a challengeto ship the app by the end of the week :3
+I've failed horribly, I've missed the deadline by almost a month... Why did I fail so hard you might be asking well its because I was in a discord call with my friends 
+and I've asked them "how do I make a front end that looks okay fast" and they told me to use shadcn and nextJs with the problem being I had 
+no experienceusing them at all...
+
+### The process
+
+Once I've realized that I wont be making the deadline I decided to turn this project into a great opportunityto learn how to write frontend.
+I got to know how to make dynamic tables in shadcn (it was painful), how to filter the table and ,how to (kind of) make a website look good. 
+after building this "thing" I can say that it was worth it I've learned a lot and tbh it was a fun project that I've enjoyed
+
+## Tech stack
+
+- **Next.js 16** — App Router, server-side rendering
+- **React 19** + TypeScript
+- **TailwindCSS 4** — styling
+- **shadcn/ui** — UI components (Table, Combobox, Input, Button)
+- **TanStack Table** — dynamic table with column filtering
+- **Python / Flask** — backend scraper API serving event data
+
 
 ## Getting Started
 
