@@ -57,7 +57,7 @@ export function DataTable<TData, TValue>({
   })
 
   return (
-    <div className="mx-auto w-full max-w-5xl overflow-hidden  backdrop-blur-xs ">
+    <div className="mx-auto w-full max-w-5xl overflow-hidden  bg-white ">
       <div className="flex justify-center p-4  border-solid">
       <Input
           placeholder="Filter events"

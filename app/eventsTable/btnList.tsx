@@ -22,4 +22,3 @@ export  function BtnList(props: {year: string[]}){
          </>
     )
 } 
-//  onClick={()=>getData(currentYear)}
